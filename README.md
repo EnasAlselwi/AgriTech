@@ -1,16 +1,7 @@
-# agritech
+# AgriTech
 
-A new Flutter project.
+🚧 This repository is under development.
 
-## Getting Started
+The graduation project title and documentation are currently under review and approval by the academic supervisors.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The project details, documentation, architecture, and source code will be updated after the final approval.
