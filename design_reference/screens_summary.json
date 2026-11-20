@@ -1,0 +1,332 @@
+[
+  {
+    "folder": "agritech_1",
+    "title": "",
+    "h1": "",
+    "h2": "الإعدادات",
+    "has_nav": false,
+    "nav_items": []
+  },
+  {
+    "folder": "agritech_2",
+    "title": "",
+    "h1": "إنشاء حساب جديد",
+    "h2": "",
+    "has_nav": false,
+    "nav_items": []
+  },
+  {
+    "folder": "agritech_3",
+    "title": "",
+    "h1": "المراقبة الزراعية",
+    "h2": "",
+    "has_nav": true,
+    "nav_items": [
+      [
+        "potted_plant",
+        "الرئيسية"
+      ],
+      [
+        "sensors",
+        "المراقبة"
+      ],
+      [
+        "photo_camera",
+        "التشخيص"
+      ],
+      [
+        "landscape",
+        "مزارعي"
+      ],
+      [
+        "manage_accounts",
+        "حسابي"
+      ]
+    ]
+  },
+  {
+    "folder": "agritech_4",
+    "title": "",
+    "h1": "سجل التشخيصات",
+    "h2": "صدأ أوراق البن",
+    "has_nav": true,
+    "nav_items": [
+      [
+        "potted_plant",
+        "الرئيسية"
+      ],
+      [
+        "sensors",
+        "المراقبة"
+      ],
+      [
+        "photo_camera",
+        "التشخيص"
+      ],
+      [
+        "landscape",
+        "مزارعي"
+      ],
+      [
+        "manage_accounts",
+        "حسابي"
+      ]
+    ]
+  },
+  {
+    "folder": "agritech_5",
+    "title": "إدارة منتجاتي - AgriTech",
+    "h1": "إدارة منتجاتي",
+    "h2": "إحصائيات المنتجات",
+    "has_nav": true,
+    "nav_items": [
+      [
+        "potted_plant",
+        "الرئيسية"
+      ],
+      [
+        "sensors",
+        "المراقبة"
+      ],
+      [
+        "photo_camera",
+        "التشخيص"
+      ],
+      [
+        "landscape",
+        "مزارعي"
+      ],
+      [
+        "manage_accounts",
+        "حسابي"
+      ]
+    ]
+  },
+  {
+    "folder": "agritech_6",
+    "title": "",
+    "h1": "نتيجة التشخيص",
+    "h2": "صدأ أوراق البن",
+    "has_nav": true,
+    "nav_items": [
+      [
+        "potted_plant",
+        "الرئيسية"
+      ],
+      [
+        "sensors",
+        "المراقبة"
+      ],
+      [
+        "photo_camera",
+        "التشخيص"
+      ],
+      [
+        "landscape",
+        "مزارعي"
+      ],
+      [
+        "manage_accounts",
+        "حسابي"
+      ]
+    ]
+  },
+  {
+    "folder": "agritech_7",
+    "title": "",
+    "h1": "التوصيات الزراعية",
+    "h2": "analytics ملخص التوصيات",
+    "has_nav": true,
+    "nav_items": [
+      [
+        "potted_plant",
+        "الرئيسية"
+      ],
+      [
+        "sensors",
+        "المراقبة"
+      ],
+      [
+        "photo_camera",
+        "التشخيص"
+      ],
+      [
+        "landscape",
+        "مزارعي"
+      ],
+      [
+        "manage_accounts",
+        "حسابي"
+      ]
+    ]
+  },
+  {
+    "folder": "agritech_8",
+    "title": "",
+    "h1": "تسجيل الدخول",
+    "h2": "",
+    "has_nav": false,
+    "nav_items": []
+  },
+  {
+    "folder": "agritech_9",
+    "title": "",
+    "h1": "تفاصيل الحساس",
+    "h2": "",
+    "has_nav": true,
+    "nav_items": [
+      [
+        "potted_plant",
+        "الرئيسية"
+      ],
+      [
+        "sensors",
+        "المراقبة"
+      ],
+      [
+        "photo_camera",
+        "التشخيص"
+      ],
+      [
+        "landscape",
+        "مزارعي"
+      ],
+      [
+        "manage_accounts",
+        "حسابي"
+      ]
+    ]
+  },
+  {
+    "folder": "agritech_10",
+    "title": "الرئيسية - AgriTech",
+    "h1": "الرئيسية",
+    "h2": "ملخص الحالة الزراعية",
+    "has_nav": true,
+    "nav_items": [
+      [
+        "potted_plant",
+        "الرئيسية"
+      ],
+      [
+        "sensors",
+        "المراقبة"
+      ],
+      [
+        "photo_camera",
+        "التشخيص"
+      ],
+      [
+        "landscape",
+        "مزارعي"
+      ],
+      [
+        "manage_accounts",
+        "حسابي"
+      ]
+    ]
+  },
+  {
+    "folder": "agritech_11",
+    "title": "",
+    "h1": "استعادة كلمة المرور",
+    "h2": "",
+    "has_nav": false,
+    "nav_items": []
+  },
+  {
+    "folder": "agritech_12",
+    "title": "",
+    "h1": "مزارعي",
+    "h2": "نظرة عامة على الرقعة الزراعية",
+    "has_nav": true,
+    "nav_items": [
+      [
+        "potted_plant",
+        "الرئيسية"
+      ],
+      [
+        "sensors",
+        "المراقبة"
+      ],
+      [
+        "photo_camera",
+        "التشخيص"
+      ],
+      [
+        "landscape",
+        "مزارعي"
+      ],
+      [
+        "manage_accounts",
+        "حسابي"
+      ]
+    ]
+  },
+  {
+    "folder": "agritech_13",
+    "title": "",
+    "h1": "",
+    "h2": "حسابي",
+    "has_nav": true,
+    "nav_items": [
+      [
+        "potted_plant",
+        "الرئيسية"
+      ],
+      [
+        "sensors",
+        "المراقبة"
+      ],
+      [
+        "photo_camera",
+        "التشخيص"
+      ],
+      [
+        "landscape",
+        "مزارعي"
+      ],
+      [
+        "manage_accounts",
+        "حسابي"
+      ]
+    ]
+  },
+  {
+    "folder": "agritech_14",
+    "title": "",
+    "h1": "تشخيص مرض نباتي",
+    "h2": "مزرعة البن الرئيسية",
+    "has_nav": true,
+    "nav_items": [
+      [
+        "potted_plant",
+        "الرئيسية"
+      ],
+      [
+        "sensors",
+        "المراقبة"
+      ],
+      [
+        "photo_camera",
+        "التشخيص"
+      ],
+      [
+        "landscape",
+        "مزارعي"
+      ],
+      [
+        "manage_accounts",
+        "حسابي"
+      ]
+    ]
+  },
+  {
+    "folder": "agritech_15",
+    "title": "",
+    "h1": "الإعدادات العامة",
+    "h2": "",
+    "has_nav": false,
+    "nav_items": []
+  }
+]
